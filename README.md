@@ -57,4 +57,4 @@ Senha: (deixe em branco)
 Os testes automatizados estão localizados em src/test/java.
 
 Rodar os testes:
-mvnw test
+mvn test
